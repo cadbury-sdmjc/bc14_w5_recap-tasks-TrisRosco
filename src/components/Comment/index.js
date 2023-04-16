@@ -11,7 +11,7 @@ function Comment(props) {
     <div>
       <h3>{author}</h3>
       <p>{content}</p>
-      <div>{initials}</div>
+      <div className="ID">{initials}</div>
     </div>
   );
 }
