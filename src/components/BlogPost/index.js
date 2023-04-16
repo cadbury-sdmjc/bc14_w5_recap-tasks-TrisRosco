@@ -7,12 +7,7 @@ function BlogPost() {
     title: "My First Blog Post (wow!)",
     author: "Reginald M. Javascpriptte III",
     datePosted: "January 1, 2020",
-    content: `A structure used in most apps and games.
-    It's a way to keep doing the same.
-    While a condition is true,
-    Or for one to twenty-two.
-    If endless, for errors we blame
-    ..........`,
+    content: `Take a look at this incredible critter I found in my backyard. It's a marvelous specimin, is it not!?  `,
     imageSrc: `https://i.pinimg.com/originals/4c/a3/1e/4ca31e5343e89bc550044caec29543e6.jpg`,
     imageAlt: `A picture of Reginal Javascpriptte III`,
   };

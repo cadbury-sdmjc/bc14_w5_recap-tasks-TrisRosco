@@ -1,14 +1,16 @@
+import Comment from "../Comment";
+
 function CommentList() {
   const comments = [
     {
       id: "kskBC5HZ8qgNQUiW6If6q",
-      asuthor: "Wilbur Wetblankette",
+      author: "Wilbur Wettes-Pantz",
       content: "Not your best work, Reginald.",
     },
 
     {
       id: "jFyGAKz1VsGputO1gV8xa",
-      auther: "Angela Wilkes",
+      author: "Angela Pilk",
       content: "I'm not sure about this one, Reggie.",
     },
   ];
