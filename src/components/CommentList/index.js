@@ -17,12 +17,8 @@ function CommentList() {
 
   return (
     <div>
-      {comments.map((comment) => (
-        <Comment
-          key={comment.id}
-          author={comment.author}
-          content={comment.content}
-        />
+      {comments.map((props) => (
+        <Comment key={props.id} author={props.author} content={props.content} />
       ))}
     </div>
   );
